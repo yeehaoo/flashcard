@@ -1,0 +1,49 @@
+calor
+frio
+viento
+nublado
+llueve
+nieva
+el volcan
+la montana
+la cordillera
+el desierto
+el rio
+el lago
+la selva
+el bosque
+la costa
+la peninsula
+la isla
+la catarata
+el invierno
+la pimavera
+el verano
+el otono
+blanco
+amarillo
+rojo
+negro
+naranja
+rosa
+verde
+azul
+marron
+un jersey
+un bolso
+una camiseta
+unos vaqueros
+unas zapatillas
+unos zapatos
+unos pantalones
+una pulsera
+un vestido
+un gorro
+una camisa
+una falda
+unas botas
+unas gafas
+una chaqueta
+camiseta de manga corta
+camiseta de manga larga
+tirantes
